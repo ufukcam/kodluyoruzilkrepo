@@ -1,5 +1,4 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![welcome](
-https://giphy.com/clips/studiosoriginals-hello-hi-welcome-xxPqL4BBV3o46xWT9l)
+![welcome](https://media.giphy.com/media/ggtpYV17RP9lTbc542/giphy.gif)
